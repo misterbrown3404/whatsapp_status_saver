@@ -1,0 +1,4 @@
+enum WhatsappStatusDir {
+  whatsappBusiness,
+  whatsapp,
+}
