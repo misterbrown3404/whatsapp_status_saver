@@ -10,9 +10,7 @@ A Flutter application designed to save WhatsApp and WhatsApp Business statuses d
 - Localization
 - Minimalistic Design
   
-## Demo
 
-To download and install the app, click [here](https://drive.google.com/file/d/13e-uGOBanLM0NKLnzl0_FUvMrojBDmHr/view?usp=sharing).
 
 
 ## Screenshots
