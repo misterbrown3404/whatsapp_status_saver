@@ -39,24 +39,6 @@ To download and install the app, click [here](https://drive.google.com/file/d/13
   </table>
 
 
-## Roadmap
-
-- Firebase Crashlytics
-
-- Ads Integration
 
 
-## Author
-Created and maintained by Ali Hamza 
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hamzaawan007.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-hamza-5b3085260)
-
-## Note
-
-**Important:** This application requires Android 10 or higher as it needs access to "ManageStorage," which is only available in Android versions greater than 10.
-
-The app logo used in this project belongs to [Ali Hamza]([link-to-your-portfolio-or-profile](https://hamzaawan007.github.io/)).
-
-For any inquiries or collaborations, feel free to reach out to me:
-- Email: contactalihamza@gmail.com
